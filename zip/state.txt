@@ -2451,3 +2451,4 @@ http://oasis.caiso.com/oasisapi/SingleZip?queryname=SLD_SF_EVAL_DMD_FCST&granula
 http://oasis.caiso.com/oasisapi/SingleZip?queryname=SLD_SF_EVAL_DMD_FCST&granularity=HOURLY&startdatetime=20190917T07:00-0000&enddatetime=20190918T07:00-0000&version=4
 http://oasis.caiso.com/oasisapi/SingleZip?queryname=SLD_SF_EVAL_DMD_FCST&granularity=HOURLY&startdatetime=20190919T07:00-0000&enddatetime=20190920T07:00-0000&version=4
 http://oasis.caiso.com/oasisapi/SingleZip?queryname=SLD_SF_EVAL_DMD_FCST&granularity=HOURLY&startdatetime=20190920T07:00-0000&enddatetime=20190921T07:00-0000&version=4
+http://oasis.caiso.com/oasisapi/SingleZip?queryname=SLD_SF_EVAL_DMD_FCST&granularity=HOURLY&startdatetime=20190918T07:00-0000&enddatetime=20190919T07:00-0000&version=4
